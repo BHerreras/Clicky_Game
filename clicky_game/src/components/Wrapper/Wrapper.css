@@ -1,0 +1,6 @@
+.wrapper {
+  background: darkgray;
+  height: 100%;
+  width: 80%;
+  overflow: auto;
+}
